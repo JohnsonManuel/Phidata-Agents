@@ -10,3 +10,6 @@ openai
 youtube_transcript_api
 googlesearch-python 
 pycountry
+newspaper4k 
+lxml_html_clean 
+phidata
