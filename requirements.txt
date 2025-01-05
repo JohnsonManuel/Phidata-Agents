@@ -7,5 +7,6 @@ fastapi
 uvicorn
 groq
 openai
-newspaper4k 
-lxml_html_clean
+youtube_transcript_api
+googlesearch-python 
+pycountry
